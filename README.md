@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**earrrtchcorez/Earrrtchcorez** is a ✨ special ✨ repository --->
+**imearrrtchcorez/Earrtchcorez** is a ✨ special ✨ repository --->
 
 <img src="assets/jiafei.gif" width="200" />
 
