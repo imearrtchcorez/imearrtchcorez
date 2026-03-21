@@ -8,6 +8,5 @@
 
 
 
-- I'm EarrrtchCorez(also EarrtchCorez), a newbie GitHub's user wanna try something new.🌈
 - I only follow people I know, like friends for example.🙃
 
