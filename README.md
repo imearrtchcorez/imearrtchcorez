@@ -6,7 +6,5 @@
 <img src="assets/jiafei.gif" width="200" />
 
 
-
-
-- I only follow people I know, like friends for example.🙃
-
+> I only follow people I know, like friends for example.🙃
+> Don't mind me;)
